@@ -13,14 +13,16 @@ layout: homepage
 ## Research Interests
 
 - **Structural Biology:** Cryo-EM, Structure-based drug screening, Molecular simulation
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Development of Novel Detection Platform against Proteins:** Transition metal complexes, probes with long lifetime
 
-## News
+## Recent News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2024]** I joined Dr. LAU Chun-Yu’s lab affiliated with Department of Applied Biology and Chemical Technology (**ABCT**) for Ph.D. study.
+- **[Jan. 2024]** Theranostic paper is [online](https://www.eurekaselect.com/article/131687). 🎉
+- **[Sept. 2023]** I was offered for admission to a fully-funded Ph.D. program at The Hong Kong Polytechnic University. Hello, [Hong Kong🇭🇰](https://www.gov.hk/en/nonresidents/)!
+- **[Jun. 2023]** I have successfully passed M.Phil. defense at University of Macau.🎓
+- **[Nov. 2022]** We presented [a LM-IR-INA strategy](https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub) for single-base mutation detection inside COVID-19. 🎉
+- **[Aug. 2021]** I was offered for admission to a M.Phil. program at University of Macau and joined Prof. LEUNG Chung-Hang’s lab affiliated with [Institute of Chinese Medical Sciences (**ICMS**)](https://sklqrcm.um.edu.mo/). Olá [Macau🇲🇴](https://www.gov.mo/en/)!
 
 {% include_relative _includes/publications.md %}
 
