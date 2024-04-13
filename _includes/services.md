@@ -1,4 +1,4 @@
-## Services
+## Teaching
 
 <h4 style="margin:0 10px 0;">The Hong Kong Polytechnic University</h4>
 
