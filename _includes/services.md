@@ -1,24 +1,3 @@
-## Teaching
-
-<h4 style="margin:0 10px 0;">The Hong Kong Polytechnic University</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>2024 Spring - (UG) Metabolism and Diseases - Teching Assistant
-  <li>2024 Spring - (UG) Microbiological Techniques - Teching Assistant
-</ul>
-
-<h4 style="margin:0 10px 0;">University of Macau</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>2022 Spring - (PG) Pharmacology and Safety Evaluation - Student Helper
-</ul>
-
-<h4 style="margin:0 10px 0;">Yunnan University</h4>
-
-<ul style="margin:0 0 5px;">
-  <li>2019 Fall - (UG) Molecular Biology - Teaching Assistant
-</ul>
-
 ## Services
 
 <h4 style="margin:0 10px 0;">Academic Affairs</h4>
