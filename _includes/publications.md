@@ -5,7 +5,7 @@
 (2) Li Guodong†, Ko Chung-Nga†, **Wang Zikang**, Chen Feng, Wang Wanhe*, Ma Dik-Lung* and Leung Chung-Hang*. (2023). [Interference reduction isothermal nucleic acid amplification strategy for COVID-19 variant detection](https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub#fig0030). _Sens. Actuators B Chem_, 377, 133006.
 
 
-<h4 style="margin:0 10px 0;">In-Progress Manuscripts († Co-first author, * Corresponding author)</h4> 
+<h4 style="margin:0 10px 0;">In-Progress Manuscripts</h4> 
 
 (1) Li Guodong†, **Wang Zikang†**, Wang Wanhe* and Leung Chung-Hang*. BRD4 short isoform: an emerging hallmark of aggressive cancers. (2023) (**Submitted**)
 
