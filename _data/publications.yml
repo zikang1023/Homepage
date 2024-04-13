@@ -1,15 +1,8 @@
 main:
 
-  - title: Interference reduction isothermal nucleic acid amplification strategy for COVID-19 variant detection
-    authors: Guodong Li†, Chung-Nga Ko†, <strong>Zikang Wang</strong>, Feng Chen, Wanhe Wang*, Dik-Lung Ma* and Chung-Hang * (†Co-first author, *Corresponding authors)
-    conference_short: SNB
-    conference: Sensors and Actuators B: Chemical <strong>(SNB)</strong>, 2023.
-    pdf: https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub
-    image: ./assets/img/teaser_example_2.png
-    notes: LM-IR-INA strategy
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Strategies for Developing Cancer Theranostics Approaches"
+    authors: <strong>Zikang Wang</strong>, Wanhe Wang* and Chung-Hang * (*Corresponding authors)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
