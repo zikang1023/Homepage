@@ -16,10 +16,10 @@
 ## Sponsors
 I’m forever grateful to the following sponsors for providing supports throughout my academic journey!
 
-![](https://github.com/zikang1023/Homepage/blob/main/assets/img/Funding%20Source.png?raw=true)
+<img src="https://github.com/zikang1023/Homepage/blob/main/assets/img/Funding%20Source.png?raw=true" width="600">
 
 
 
 ## Diversity Statement
 
-![](https://github.com/zikang1023/Homepage/blob/main/assets/img/Diversity%20Statement.jpg?raw=true)
+<img src="https://github.com/zikang1023/Homepage/blob/main/assets/img/Diversity%20Statement.jpg?raw=true" width="600">
