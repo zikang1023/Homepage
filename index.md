@@ -10,6 +10,10 @@ layout: homepage
 
 📌I’m always ready for exploring potential (overseas) collaborations (especially with those from non-biological backgrounds, e.g., CS, EE). Therefore, do not hesitate to drop me an [email](mailto:zikangwang1023@gmail.com) if you are interested in what I am focusing on or have some other topic(s) to chat and chat.
 
+<h4 style="margin:0 10px 0;">There is only one heroism in the world: to see the world as it is, and to love it.</h4>
+
+<h5 style="margin:0 7px 0;">— Romain Rolland</h5>
+
 ## Research Interests
 
 - **Structural Biology:** Cryo-EM, Structure-based drug screening, Molecular simulation
