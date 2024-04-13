@@ -33,4 +33,4 @@ layout: homepage
 
 {% include_relative _includes/services.md %}
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5FZLtXSj8YbQOWNeBT9bYywt-T4IgAkyXIeEsI6Mo5A"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5FZLtXSj8YbQOWNeBT9bYywt-T4IgAkyXIeEsI6Mo5A&cl=ffffff&w=a"></script>
