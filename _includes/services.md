@@ -16,7 +16,7 @@
 ## Sponsors
 I’m forever grateful to the following sponsors for providing supports throughout my academic journey!
 
-[]()
 
 ## Diversity Statement
-[]()
+
+
