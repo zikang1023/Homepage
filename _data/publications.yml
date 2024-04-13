@@ -3,11 +3,8 @@ main:
 
   - title: "Strategies for Developing Cancer Theranostics Approaches"
     authors: <strong>Zikang Wang</strong>, Wanhe Wang* and Chung-Hang * (*Corresponding authors)
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference_short: PRA
+    conference: Recent Patents on Anti-Cancer Drug Discovery <strong>(PRA)</strong>, 2024.
+    pdf: https://www.eurekaselect.com/article/131687
+    notes: Invited Contribution
+    image: 
