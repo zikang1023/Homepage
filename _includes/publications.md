@@ -14,3 +14,21 @@
 (3) Zhang Yuqing†, **Wang Zikang†**, [Bian Ying](https://sklqrcm.um.edu.mo/ying-bian/)*. The emerging role of a novel grading system to evaluate environmental information disclosure (EID) performance: empirical analysis of Chinese listed pharmaceutical companies. (2024) (**Submitted**)
 
 **P.S.** Manuscript is available upon reasonable request.
+
+## Teaching
+
+<h4 style="margin:0 10px 0;">The Hong Kong Polytechnic University</h4> 
+
+Metabolism and Diseases - Undergraduate Course - Teaching Assistant (2023/2024 Semester B)
+
+Microbiological Techniques - Undergraduate Course - Teaching Assistant (2023/2024 Semester B)
+
+<h4 style="margin:0 10px 0;">University of Macau</h4>
+
+Pharmacology and Safety Evaluation - Postgraduate (M.Phil.) Course - Student Helper (2021/2022 Semester B)
+
+<h4 style="margin:0 10px 0;">Yunnan University</h4>
+
+Molecular Biology - Undergraduate Course - Teaching Assistant (2019/2020 Semester A)
+
+**P.S.** If you want to know more about my teaching experiences, please feel free to contact [Dr. LEE Chun-Kit](mailto:alan-ck.lee@polyu.edu.hk).
