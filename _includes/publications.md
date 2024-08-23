@@ -23,6 +23,10 @@ Metabolism and Diseases - Undergraduate Course - Teaching Assistant (2023/2024 S
 
 Microbiological Techniques - Undergraduate Course - Teaching Assistant (2023/2024 Semester B)
 
+DNA Technology - Undergraduate Course - Teaching Assistant (2024/2025 Semester A)
+
+Immunotechnology - Undergraduate Course - Teaching Assistant (2024/2025 Semester B)
+
 <h4 style="margin:0 10px 0;">University of Macau</h4>
 
 Pharmacology and Safety Evaluation - Postgraduate (M.Phil.) Course - Student Helper (2021/2022 Semester B)
