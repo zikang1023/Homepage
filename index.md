@@ -22,6 +22,7 @@ layout: homepage
 
 ## Recent News
 
+- **[Sept. 2024]** Our recent work of Environmental Information Disclosure **(EID)** is [online](https://www.researchsquare.com/article/rs-4985385/v1) as a preprint. ✨
 - **[Aug. 2024]** I was invited to give a [talk](https://drive.google.com/file/d/10KLDfZ7opwwoZltlueF_uvMWJfvjRiM_/view?usp=sharing) at 5th ABCT Research Postgraduate Symposium in the Biology Discipline at PolyU.
 - **[Jul. 2024]** Dr. LAU presented our recent research on [2024 Enzymes, Coenzymes and Metabolic Pathways Conference, GRC](https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2024/).
 - **[Jun. 2024]** **ZHANG Yuqing** successfully passed M.Phil. defense at University of Macau. 🎓 Congratulations!
