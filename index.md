@@ -18,7 +18,8 @@ layout: homepage
 ## Research Interests
 
 - **Structural Biology:** Cryo-EM, Structure-based drug screening, Molecular simulation
-- **Development of Novel Detection Platform against Proteins:** Transition metal complexes, probes with long lifetime
+- **Chemical Biology:** Transition metal complexes (TMCs), Probes with long lifetime
+- **Computer Science:** AI For Science (AI4S), Machine Learning (ML)
 
 ## Recent News
 
