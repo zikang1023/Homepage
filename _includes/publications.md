@@ -9,9 +9,9 @@
 
 (1) Li Guodong†, **Wang Zikang†**, Wang Wanhe* and Leung Chung-Hang*. BRD4 short isoform: an emerging hallmark of aggressive cancers. (2023) (**Submitted**)
 
-(2) Leung Chung-Hang*, Wang Wanhe*, **Wang Zikang†**, et al. Multi-color cell imaging of cereblon using immunomodulatory imide drug (IMiD) labeling iridium(III) complexes. (Thesis project, ready for submission soon)
+(2) Leung Chung-Hang*, Wang Wanhe*, **Wang Zikang†**, et al. Multi-color cell imaging of cereblon using immunomodulatory imide drug (IMiD) labeling iridium(III) complexes. (Ready for submission to peer-reviewed journal soon)
 
-(3) Zhang Yuqing†, **Wang Zikang†**, [Bian Ying](https://sklqrcm.um.edu.mo/ying-bian/)*. The emerging role of a novel grading system to evaluate environmental information disclosure (EID) performance: empirical analysis of Chinese listed pharmaceutical companies. (2024) (**Submitted**)
+(3) Zhang Yuqing†, **Wang Zikang†**, [Bian Ying](https://sklqrcm.um.edu.mo/ying-bian/)*. [The emerging role of a novel grading system to evaluate environmental information disclosure (EID) performance: empirical analysis of Chinese listed pharmaceutical companies](https://www.researchsquare.com/article/rs-4985385/v1). In: _**DIA Europe 2025**_ (Ready for submission to peer-reviewed journal soon)
 
 **P.S.** Manuscript is available upon reasonable request.
 
