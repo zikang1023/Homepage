@@ -1,4 +1,4 @@
-## Publications († Co-first author, * Corresponding author)
+## Publications († and * denote equal contribution)
 
 (1) **Wang Zikang**, Wang Wanhe*, and Leung Chung-Hang*. (2024) [Strategies for Developing Cancer Theranostics Approaches](https://www.eurekaselect.com/article/131687). _Recent Pat Anti-canc_, 19 (2), 130–136. (Invited by [Prof. CHEN Zhesheng](https://www.stjohns.edu/academics/faculty/zhe-sheng-chen))
 
