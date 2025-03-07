@@ -19,20 +19,20 @@
 
 <h4 style="margin:0 10px 0;">The Hong Kong Polytechnic University</h4> 
 
-1. Metabolism and Diseases - Undergraduate Course - Teaching Assistant (2023/2024 Semester B)
+1. ABCT4105 - Metabolism and Diseases - Teaching Assistant (2023/2024 Semester B)
 
-2. Microbiological Techniques - Undergraduate Course - Teaching Assistant (2023/2024 Semester B)
+2. ABCT3642 - Microbiological Techniques - Teaching Assistant (2023/2024 Semester B)
 
-3. DNA Technology - Undergraduate Course - Teaching Assistant (2024/2025 Semester A)
+3. ABCT3112 - DNA Technology - Teaching Assistant (2024/2025 Semester A)
 
-4. Immunotechnology - Undergraduate Course - Teaching Assistant (2024/2025 Semester B)
+4. ABCT4102 - Immunotechnology - Teaching Assistant (2024/2025 Semester B)
 
 <h4 style="margin:0 10px 0;">University of Macau</h4>
 
-1. Pharmacology and Safety Evaluation - Postgraduate (M.Phil.) Course - Student Helper (2021/2022 Semester B)
+1. CMED7001 - Pharmacology and Safety Evaluation - Student Helper (2021/2022 Semester B)
 
 <h4 style="margin:0 10px 0;">Yunnan University</h4>
 
-1. Molecular Biology - Undergraduate Course - Teaching Assistant (2019/2020 Semester A)
+1. Molecular Biology - Teaching Assistant (2019/2020 Semester A)
 
 **P.S.** If you want to know more about my teaching experiences, please feel free to contact [Dr. LEE Chun-Kit](mailto:alan-ck.lee@polyu.edu.hk).
