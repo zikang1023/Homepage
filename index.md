@@ -23,7 +23,7 @@ layout: homepage
 
 ## Recent News
 
-- **[Sept. 2024]** Our recent work of Environmental Information Disclosure **(EID)** is [online](https://www.researchsquare.com/article/rs-4985385/v1) as a preprint. ✨
+- **[Sept. 2024]** Our recent work of Environmental Information Disclosure is [online](https://www.researchsquare.com/article/rs-4985385/v1) as a preprint. ✨
 - **[Aug. 2024]** I was invited to give a [talk](https://drive.google.com/file/d/10KLDfZ7opwwoZltlueF_uvMWJfvjRiM_/view?usp=sharing) at 5th ABCT Research Postgraduate Symposium in the Biology Discipline at PolyU.
 - **[Jul. 2024]** Dr. LAU presented our recent research on [2024 Enzymes, Coenzymes and Metabolic Pathways Conference, GRC](https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2024/).
 - **[Jun. 2024]** **ZHANG Yuqing** successfully passed M.Phil. defense at University of Macau. 🎓 Congratulations!
@@ -32,7 +32,7 @@ layout: homepage
 - **[Sept. 2023]** I was offered for admission to a fully-funded Ph.D. program at The Hong Kong Polytechnic University. Hello, [Hong Kong🇭🇰](https://www.gov.hk/en/nonresidents/)!
 - **[Jun. 2023]** I have successfully passed M.Phil. defense at University of Macau.🎓
 - **[Nov. 2022]** We presented a [LM-IR-INA strategy](https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub) for single-base mutation detection inside COVID-19. 🎉
-- **[Aug. 2021]** I was offered for admission to a M.Phil. program at University of Macau and joined Prof. LEUNG Chung-Hang’s lab affiliated with [Institute of Chinese Medical Sciences (ICMS)](https://sklqrcm.um.edu.mo/). Olá [Macau🇲🇴](https://www.gov.mo/en/)!
+- **[Aug. 2021]** I was offered for admission to a M.Phil. program at University of Macau and joined Prof. LEUNG Chung-Hang’s lab affiliated with [Institute of Chinese Medical Sciences](https://sklqrcm.um.edu.mo/). Olá [Macau🇲🇴](https://www.gov.mo/en/)!
 
 {% include_relative _includes/publications.md %}
 
