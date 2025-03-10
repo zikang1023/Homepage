@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>2024 <a href="https://events.polyu.edu.hk/hkjiangsu/home"><autocolor>Hong Kong-Jiangsu Symposium on Drug Discovery and Development</autocolor></a></li> Student Helper 
-  <li>2024- Present  <a href="https://scs.sao.um.edu.mo/career-development-centre/student/advising-service/alumni-online/"><autocolor>Career Development Centre, University of Macau</autocolor></a></li> Online Advisor
+  <li>2024 - Present  <a href="https://scs.sao.um.edu.mo/career-development-centre/student/advising-service/alumni-online/"><autocolor>Career Development Centre, University of Macau</autocolor></a></li> Online Advisor
 </ul>
 
 <h4 style="margin:0 10px 0;">Community Affairs</h4>
