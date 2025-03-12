@@ -10,7 +10,7 @@
 <h4 style="margin:0 10px 0;">Community Affairs</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Jun 2018 - Oct 2018 <a href="http://www.ydyouth.ynu.edu.cn/"><autocolor>Youth-Volunteer Association (YNU)</autocolor></a></li> Chairman
+  <li> 2016 - 2018 <a href="http://www.ydyouth.ynu.edu.cn/"><autocolor>Youth-Volunteer Association (YNU)</autocolor></a></li> Officer
 </ul>
 
 ## Sponsors
