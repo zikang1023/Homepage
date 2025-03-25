@@ -4,6 +4,8 @@
 
 (2) Guodong Li†, Chung-Nga Ko†, **Zikang Wang**, Feng Chen, Wanhe Wang*, Dik-Lung Ma* and Chung-Hang Leung*. (2023). [Interference reduction isothermal nucleic acid amplification strategy for COVID-19 variant detection](https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub#fig0030). _Sens. Actuators B Chem_, 377, 133006.
 
+(3) Hongfei Chen†, Zhiyi Xu†, Yishu Bao†, Farshad Shiri†, Dingdong Yuan, Biquan Li, Bin Zeng, Xiaojing Li, Hao Kong, **Zikang Wang**, Chun-Yu Lau, Zhenyang Lin*, and Jiang Xia*. (2025) Bioorthogonal Reaction of o-Quinone with Furan-2(3H)-one for Site-Selective Tyrosine Conjugation and Construction of Bispecific Antibody Complexes. _Advanced Science_ (Accepted)
+
 
 <h4 style="margin:0 10px 0;">In-Progress Manuscripts</h4> 
 
