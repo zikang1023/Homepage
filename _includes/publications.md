@@ -13,7 +13,7 @@
 
 (2) Chung-Hang Leung*, Wanhe Wang*, **Zikang Wang†**, et al. Multi-color cell imaging of cereblon using immunomodulatory imide drug (IMiD) labeling iridium(III) complexes. (Ready for submission to peer-reviewed journal soon)
 
-(3) Yuqing Zhang†, **Zikang Wang†**, [Ying Bian](https://sklqrcm.um.edu.mo/ying-bian/)*. [The emerging role of a novel grading system to evaluate environmental information disclosure (EID) performance: empirical analysis of Chinese listed pharmaceutical companies](https://www.researchsquare.com/article/rs-4985385/v1). (Ready for submission to peer-reviewed journal soon)
+(3) Yuqing Zhang†, **Zikang Wang†**, Ying Bian*. [The emerging role of a novel grading system to evaluate environmental information disclosure (EID) performance: empirical analysis of Chinese listed pharmaceutical companies](https://www.researchsquare.com/article/rs-4985385/v1). (Ready for submission to peer-reviewed journal soon)
 
 **P.S.** Manuscript is available upon reasonable request.
 
