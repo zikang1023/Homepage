@@ -1,6 +1,6 @@
 ## Publications († and * denote equal contribution)
 
-(1) Hongfei Chen†, Zhiyi Xu†, Yishu Bao†, Farshad Shiri†, Dingdong Yuan, Biquan Li, Bin Zeng, Xiaojing Li, Hao Kong, **Zikang Wang**, Chun-Yu Lau, Zhenyang Lin*, and Jiang Xia*. (2025) Bioorthogonal Reaction of o-Quinone with Furan-2(3H)-one for Site-Selective Tyrosine Conjugation and Construction of Bispecific Antibody Complexes. _Advanced Science_ (Accepted)
+(1) Hongfei Chen†, Zhiyi Xu†, Yishu Bao†, Farshad Shiri†, Dingdong Yuan, Biquan Li, Bin Zeng, Xiaojing Li, Hao Kong, **Zikang Wang**, Chun-Yu Lau, Zhenyang Lin*, and Jiang Xia*. (2025) [Bioorthogonal Reaction of o-Quinone with Furan-2(3H)-one for Site-Selective Tyrosine Conjugation and Construction of Bispecific Antibody Complexes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417260). _Advanced Science_ (Accepted)
 
 (2) **Zikang Wang**, Wanhe Wang*, and Chung-Hang Leung*. (2024) [Strategies for Developing Cancer Theranostics Approaches](https://www.eurekaselect.com/article/131687). _Recent Pat Anti-canc_, 19 (2), 130–136. (Invited by [Prof. Zhesheng CHEN](https://www.stjohns.edu/academics/faculty/zhe-sheng-chen))
 
