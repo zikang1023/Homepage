@@ -29,6 +29,8 @@
 
 4. ABCT4102 - Immunotechnology - Teaching Assistant (2024/2025 Semester B)
 
+5. ABCT9999 - Pre-FYP Training Workshop - Teaching Assistant (2024/2025 Semester B)
+
 <h4 style="margin:0 10px 0;">University of Macau</h4>
 
 1. CMED7001 - Pharmacology and Safety Evaluation - Student Helper (2021/2022 Semester B)
