@@ -21,7 +21,7 @@ layout: homepage
 
 ## Recent News
 
-- **[Mar. 2025]** Our recent paper in collaboration with [XIA Lab](https://xialab.hk/) is accepted by Advanced Science. 🎉
+- **[Mar. 2025]** Our recent paper in collaboration with [XIA Lab](https://xialab.hk/) is accepted by [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417260). 🎉
 - **[Jul. 2024]** Prof. LAU presented our recent research on [2024 Enzymes, Coenzymes and Metabolic Pathways Conference, GRC](https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2024/).
 - **[Jun. 2024]** **Yuqing ZHANG** successfully passed M.Phil. defense at University of Macau. 🎓 Congratulations!
 - **[Jan. 2024]** I joined Prof. Chun-Yu LAU’s lab for Ph.D. study.
