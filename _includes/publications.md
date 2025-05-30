@@ -1,10 +1,10 @@
-## Publications († and * denote equal contribution)
+## Publications († denotes equal contribution)
 
-(1) Hongfei Chen†, Zhiyi Xu†, Yishu Bao†, Farshad Shiri†, Dingdong Yuan, Biquan Li, Bin Zeng, Xiaojing Li, Hao Kong, **Zikang Wang**, Wilson Chun-Yu Lau, Zhenyang Lin*, and Jiang Xia*. (2025) [Bioorthogonal Reaction of o-Quinone with Furan-2(3H)-one for Site-Selective Tyrosine Conjugation and Construction of Bispecific Antibody Complexes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417260). _Adv. Sci_, 2417260.
+(1) Hongfei Chen†, Zhiyi Xu†, Yishu Bao†, Farshad Shiri†, Dingdong Yuan, Biquan Li, Bin Zeng, Xiaojing Li, Hao Kong, **Zikang Wang**, Wilson Chun-Yu Lau, Zhenyang Lin, and Jiang Xia. (2025) [Bioorthogonal Reaction of o-Quinone with Furan-2(3H)-one for Site-Selective Tyrosine Conjugation and Construction of Bispecific Antibody Complexes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417260). _Adv. Sci_, 2417260.
 
-(2) **Zikang Wang**, Wanhe Wang*, and Chung-Hang Leung*. (2024) [Strategies for Developing Cancer Theranostics Approaches](https://www.eurekaselect.com/article/131687). _Recent Pat Anti-canc_, 19 (2), 130–136. (_Invited Contribution_)
+(2) **Zikang Wang**, Wanhe Wang, and Chung-Hang Leung. (2024) [Strategies for Developing Cancer Theranostics Approaches](https://www.eurekaselect.com/article/131687). _Recent Pat Anti-canc_, 19 (2), 130–136. (_Invited Contribution_)
 
-(3) Guodong Li†, Chung-Nga Ko†, **Zikang Wang**, Feng Chen, Wanhe Wang*, Dik-Lung Ma* and Chung-Hang Leung*. (2023). [Interference reduction isothermal nucleic acid amplification strategy for COVID-19 variant detection](https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub#fig0030). _Sens. Actuators B Chem_, 377, 133006.
+(3) Guodong Li†, Chung-Nga Ko†, **Zikang Wang**, Feng Chen, Wanhe Wang, Dik-Lung Ma and Chung-Hang Leung. (2023). [Interference reduction isothermal nucleic acid amplification strategy for COVID-19 variant detection](https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub#fig0030). _Sens. Actuators B Chem_, 377, 133006.
 
 
 ## Teaching
