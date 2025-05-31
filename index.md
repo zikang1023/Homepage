@@ -21,7 +21,7 @@ layout: homepage
 
 ## Recent News
 
-- **[May 2025]**  My work received the **Best Poster Award** at [2025 Hong Kong - Jiangsu Symposium on Drug Discovery and Development](https://events.polyu.edu.hk/hkjiangsu25/home). 🎉
+- **[May 2025]** My work received the **Best Poster Award** at [2025 Hong Kong - Jiangsu Symposium on Drug Discovery and Development](https://events.polyu.edu.hk/hkjiangsu25/home). 🎉
 - **[Mar. 2025]** Our recent paper in collaboration with [The Chinese University of Hong Kong](https://xialab.hk/) is accepted by [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417260). 🎉
 - **[Jul. 2024]** Prof. LAU presented our recent research on [2024 Enzymes, Coenzymes and Metabolic Pathways Conference, GRC](https://www.grc.org/enzymes-coenzymes-and-metabolic-pathways-conference/2024/).
 - **[Jun. 2024]** **Yuqing ZHANG** successfully passed M.Phil. defense at University of Macau. 🎓 Congratulations!
