@@ -9,9 +9,7 @@
 
 ## Teaching
 
-<h4 style="margin:0 10px 0;">The Hong Kong Polytechnic University</h4> 
-
-<h5 style="margin:0 8px 0;">Teaching Assistant</h5> 
+<h4 style="margin:0 10px 0;">The Hong Kong Polytechnic University - Teaching Assistant</h4> 
 
 1. ABCT9999 - Pre-FYP Training Workshop (2025 Spring)
 
@@ -23,17 +21,11 @@
 
 5. ABCT4105 - Metabolism and Diseases (2024 Spring)
 
-
-<h4 style="margin:0 10px 0;">University of Macau</h4>
-
-<h5 style="margin:0 8px 0;">Student Helper</h5> 
+<h4 style="margin:0 10px 0;">University of Macau - Sutdent Helper</h4>
 
 1. CMED7001 - Pharmacology and Safety Evaluation (2022 Spring)
 
-
-<h4 style="margin:0 10px 0;">Yunnan University</h4>
-
-<h5 style="margin:0 8px 0;">Teaching Assistant</h5> 
+<h4 style="margin:0 10px 0;">Yunnan University - Teaching Assistant</h4>
 
 1. Molecular Biology (2019 Fall)
 
