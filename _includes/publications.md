@@ -29,4 +29,3 @@
 
 1. Molecular Biology (2019 Fall)
 
-**P.S.** If you want to know more about my teaching experiences, please feel free to contact [Dr. Chun-Kit LEE](mailto:alan-ck.lee@polyu.edu.hk).
