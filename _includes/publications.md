@@ -13,13 +13,15 @@
 
 1. ABCT9999 - Pre-FYP Training Workshop (2025 Spring)
 
-2. ABCT4102 - Immunotechnology (2025 Spring)
+2. ABCT4105 - Metabolism and Diseases (2024 Spring)
 
-3. ABCT3112 - DNA Technology (2024 Fall)
+3. ABCT4102 - Immunotechnology (2025 Spring, 2026 Spring)
 
 4. ABCT3642 - Microbiological Techniques (2024 Spring)
 
-5. ABCT4105 - Metabolism and Diseases (2024 Spring)
+5. ABCT3112 - DNA Technology (2024 Fall, 2025 Fall)
+
+6. ABCT2328 - Advanced Physiology (2026 Spring)
 
 <h4 style="margin:0 10px 0;">University of Macau - Sutdent Helper</h4>
 
