@@ -15,9 +15,9 @@ layout: homepage
 
 ## Research Interests
 
-- **Structural Biology:** Cryo-EM, Structure-Guided Drug Discovery
-- **Chemical Biology:** Transition Metal Complexes (TMCs), Biological Probes
-- **Computer Science:** AI for Biology (AI4B), Machine Learning (ML)
+- **Structural Biology:** Cryo-EM, Structure-Guided Drug Discovery.
+- **Chemical Biology:** Transition Metal Complexes (TMCs), Biological Probes.
+- **Computer Science:** AI for Science (AI4S), Machine Learning (ML), Bioinformatics.
 
 ## Recent News
 
