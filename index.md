@@ -23,13 +23,13 @@ layout: homepage
 
 - **[Oct 2025]** I have successfully passed [Confirmation of Registration](https://www.polyu.edu.hk/gs/rpghandbook/section7/) at The Hong Kong Polytechnic University and become a Ph.D. candidate.
 - **[May 2025]** My work received the **Best Poster Award** at [2025 Hong Kong - Jiangsu Symposium on Drug Discovery and Development](https://events.polyu.edu.hk/hkjiangsu25/home). 🎉
-- **[Mar. 2025]** Our recent paper in collaboration with [The Chinese University of Hong Kong](https://xialab.hk/) is accepted by [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417260). 🎉
-- **[Jun. 2024]** **Yuqing ZHANG** successfully passed M.Phil. defense at University of Macau. 🎓 Congratulations!
-- **[Jan. 2024]** Started my Ph.D. study at [Department of Applied Biology and Chemical Technology](https://www.polyu.edu.hk/abct/), The Hong Kong Polytechnic University.
-- **[Jan. 2024]** Theranostic paper is [online](https://www.eurekaselect.com/article/131687). 🎉
-- **[Jun. 2023]** I have successfully passed M.Phil. defense at University of Macau.🎓
-- **[Nov. 2022]** We presented a [LM-IR-INA strategy](https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub) for single-base mutation detection inside COVID-19. 🎉
-- **[Aug. 2021]** Started my M.Phil. study at [Institute of Chinese Medical Sciences](https://sklqrcm.um.edu.mo/), University of Macau.
+- **[Mar 2025]** Our recent paper in collaboration with [The Chinese University of Hong Kong](https://xialab.hk/) is accepted by [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417260). 🎉
+- **[Jun 2024]** **Yuqing ZHANG** successfully passed M.Phil. defense at University of Macau. 🎓 Congratulations!
+- **[Jan 2024]** Started my Ph.D. study at [Department of Applied Biology and Chemical Technology](https://www.polyu.edu.hk/abct/), The Hong Kong Polytechnic University.
+- **[Jan 2024]** Theranostic paper is [online](https://www.eurekaselect.com/article/131687). 🎉
+- **[Jun 2023]** I have successfully passed M.Phil. defense at University of Macau.🎓
+- **[Nov 2022]** We presented a [LM-IR-INA strategy](https://www.sciencedirect.com/science/article/pii/S0925400522016495?via%3Dihub) for single-base mutation detection inside COVID-19. 🎉
+- **[Aug 2021]** Started my M.Phil. study at [Institute of Chinese Medical Sciences](https://sklqrcm.um.edu.mo/), University of Macau.
 
 {% include_relative _includes/publications.md %}
 
