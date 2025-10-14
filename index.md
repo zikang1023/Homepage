@@ -24,7 +24,7 @@ layout: homepage
 - **[Oct 2025]** I have successfully passed [Confirmation of Registration](https://www.polyu.edu.hk/gs/rpghandbook/section7/) at The Hong Kong Polytechnic University and become a Ph.D. candidate.
 - **[May 2025]** My work received the **Best Poster Award** at [2025 Hong Kong - Jiangsu Symposium on Drug Discovery and Development](https://events.polyu.edu.hk/hkjiangsu25/home). 🎉
 - **[Mar 2025]** Our recent paper in collaboration with [The Chinese University of Hong Kong](https://xialab.hk/) is accepted by [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417260). 🎉
-- **[Jun 2024]** **Yuqing ZHANG** successfully passed M.Phil. defense at University of Macau. 🎓 Congratulations!
+- **[Jun 2024]** **Yuqing ZHANG** has successfully passed M.Phil. defense at University of Macau. 🎓 Congratulations!
 - **[Jan 2024]** Started my Ph.D. study at [Department of Applied Biology and Chemical Technology](https://www.polyu.edu.hk/abct/), The Hong Kong Polytechnic University.
 - **[Jan 2024]** Theranostic paper is [online](https://www.eurekaselect.com/article/131687). 🎉
 - **[Jun 2023]** I have successfully passed M.Phil. defense at University of Macau.🎓
