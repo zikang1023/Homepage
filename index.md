@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Biography
+## About Me
 
 👋🏻 Hi there! Welcome to my homepage! My name is Zikang WANG「王紫康」, and I also go by **_Jackson_**. I'm now a Ph.D. candidate at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) majored in [Cryo-EM](https://en.wikipedia.org/wiki/Cryogenic_electron_microscopy) based strcutral biology since 2024. Prior to this, I gained my M.Phil. (**Highest Honors**) from [University of Macau](https://www.um.edu.mo/) with a research focus on the development of biological probes in 2023 and completed the undergraduate education from [Yunnan University](https://english.ynu.edu.cn/) in 2020.
 
